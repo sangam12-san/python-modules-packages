@@ -17,3 +17,9 @@ A Python project demonstrating modular code design, custom package creation, and
 ├── requirements.txt         # Package dependencies
 ├── .gitignore
 └── README.md
+
+
+Author = Sangam Dhone 
+├── main.tsx
+├── App.tsx
+├── index.css
