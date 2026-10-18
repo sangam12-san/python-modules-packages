@@ -20,6 +20,3 @@ A Python project demonstrating modular code design, custom package creation, and
 
 
 Author = Sangam Dhone 
-├── main.tsx
-├── App.tsx
-├── index.css
